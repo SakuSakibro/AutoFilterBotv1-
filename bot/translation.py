@@ -4,13 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hey {}Hei🤣!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Describe you😂
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@PHANTOM-E1-CUTZ
 </i>"""    
     
     HELP_TEXT = """
@@ -42,13 +41,12 @@ For More Details Click Help Button Below..
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@CrazyBotsz
+        
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="Phantomkrishna-bot ">AlbertEinstein_TG</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
