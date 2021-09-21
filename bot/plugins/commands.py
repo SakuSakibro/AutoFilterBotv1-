@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'SUBSCRIBE', url="https://t.me/PHANTOM-E1-CUTZ"
                                 )
                         ]
                     ]
